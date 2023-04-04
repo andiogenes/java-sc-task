@@ -1,5 +1,5 @@
 import arx.dukalis.collections.RedBlackTree;
-import org.junit.jupiter.api.Test;
+import arx.dukalis.unit.api.Test;
 
 import java.util.Arrays;
 import java.util.Collection;
@@ -7,7 +7,7 @@ import java.util.Comparator;
 import java.util.List;
 import java.util.stream.IntStream;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static arx.dukalis.unit.api.Assertions.*;
 
 public class RedBlackTreeTest {
 
